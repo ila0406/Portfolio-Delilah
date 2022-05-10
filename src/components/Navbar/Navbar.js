@@ -2,10 +2,12 @@ import { useState } from 'react'
 
 function Navbar() {
     const [that, setThat] = useState("string value")
-    const example = {
-        backgroundColor: "red",
-        color: "green"
-    }
+    // const nav {
+    //     padding-top: 15px;
+    //     margin-right: 20px;
+    //     float: right;
+    //     font-size: 20px;
+    // }
 
     return (
     <nav>
