@@ -1,5 +1,6 @@
 # Portfolio-Delilah
-https://ila0406.github.io/Portfolio-Delilah/
+https://afternoon-forest-69193.herokuapp.com/
+https://github.com/ila0406/Portfolio-Delilah
 
 ## Description
 My portfolio of my top projects
