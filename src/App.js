@@ -1,6 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
 import Navbar from "./components/Navbar/Navbar"
+import AboutMe from "./components/AboutMe/AboutMe"
+import Work from "./components/Work/Work"
+import Contact from "./components/Contact/Contact"
 import Footer from "./components/Footer/Footer"
 
 function App() {
@@ -15,9 +18,11 @@ function App() {
         </header>
         <div id="hero-image" title="Night sky at dusk - banner image"></div>    
       
-        <h2>About Me</h2>
-        <h2>Work</h2>
-        <h2>Contact</h2>
+        <AboutMe />
+
+        <Work />
+
+        <Contact />
         
         <Footer />
     </div>
