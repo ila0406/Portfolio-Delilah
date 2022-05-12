@@ -1,28 +1,53 @@
 # Portfolio-Delilah
-https://afternoon-forest-69193.herokuapp.com/
-https://github.com/ila0406/Portfolio-Delilah
 
-## Description
+## GitHub Repository & Deployed Application
+* https://afternoon-forest-69193.herokuapp.com/
+* https://github.com/ila0406/Portfolio-Delilah
+* https://ila0406.github.io/Portfolio-Delilah/
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## <a href='#readme-badges'><img id='usage' src='https://i.imgur.com/mIa9BIm.png' style='height: 40px'></a>
+* [Description](#description)
+* [Technolgies Used](#technolgies-used)
+* [Installation Instructions](#installation-instructions)
+* [Usage Info](#usage-info)
+* [Contribution Guide](#contribution-guide)
+* [Instructions for testing](#instructions-for-testing)
+* [Questions](#questions)
+* [Screenshots](#screenshots) 
+
+## <a id='description' href='#readme-badges'><img id='usage' src='https://i.imgur.com/LJ1S6wB.png' style='height: 40px'></a>
 My portfolio of my top projects
 
-## Technologies Used
-CSS, HTML, Bootstrap
 
-## Accessibility
-Lighthouse report on accesibility
+## <a id='technolgies-used' href='#readme-badges'><img id='usage' src='https://i.imgur.com/ykBU02c.png' style='height: 40px'></a>
+* React
+* Javascript 
+* HTML 
+* CSS 
 
-<img src="./assets/images/accesibility.png" width="500">
 
-## Mock-Up 
+## <a id='installation-instructions' href='#readme-badges'><img id='usage' src='https://i.imgur.com/ucpcjWg.png' style='height: 40px'></a>
 
-The following animation shows the web application's appearance and functionality that was to be used as example mockup.
 
-<img src="./assets/images/02-advanced-css-homework-demo.gif" width="500">
+## <a id='usage-info' href='#readme-badges'><img id='usage' src='https://i.imgur.com/erC9rgJ.png' style='height: 40px'></a>
 
-The following mockup shows the responsiveness of the website on both the computer and moto G4 phone. 
 
-<img src="./assets/images/responsive1.png" width="300">
-<img src="./assets/images/responsive2.png" width="500">
 
-## Questions
-email: ila0406@gmail.com
+## <a id='contribution-guide' href='#readme-badges'><img id='usage' src='https://i.imgur.com/ZtAN77x.png' style='height: 35px'></a>
+
+
+## <a id='instructions-for-testing'  href='#readme-badges'><img id='usage' src='https://i.imgur.com/7jEx40O.png' style='height: 40px'></a>
+
+
+## <a id='screenshots' href='#readme-badges'><img id='usage' src='https://i.imgur.com/WaoO6zA.png' style='height: 40px'></a>
+Mockup<br>
+<a id='screenshots' href='#readme-badges'><img id='usage' src='https://i.imgur.com/.png' style='height: 400px'></a>
+
+## <a id='questions' href='#readme-badges'><img id='usage' src='https://imgur.com/Z3i069z.png' style='height: 40px'></a>
+If you have questions, you can either open a issue in my Github repository <br>
+GitHub: <https://github.com/ila0406> <br>
+<br>
+Or you can send me an email directly <br>
+Email: <ila0406@gmail.com>
