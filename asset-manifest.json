@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Delilah/static/css/main.4c9c2d17.css",
+    "main.js": "/Portfolio-Delilah/static/js/main.746c5364.js",
+    "static/js/787.78fa1f3e.chunk.js": "/Portfolio-Delilah/static/js/787.78fa1f3e.chunk.js",
+    "static/media/travel-trustees.png": "/Portfolio-Delilah/static/media/travel-trustees.5b5d7e54fe631b886f28.png",
+    "static/media/vincentiu-solomon-ln5drpv_ImI-unsplash.png": "/Portfolio-Delilah/static/media/vincentiu-solomon-ln5drpv_ImI-unsplash.825d994c7ad18c1e890a.png",
+    "static/media/tttp2.png": "/Portfolio-Delilah/static/media/tttp2.8dfff44fedc917eeaaea.png",
+    "static/media/Weather-Dashboard.png": "/Portfolio-Delilah/static/media/Weather-Dashboard.efc352b8d5ae06804d98.png",
+    "static/media/Workday-Scheduler.png": "/Portfolio-Delilah/static/media/Workday-Scheduler.b80839348c9b82041cc6.png",
+    "static/media/ME.jpg": "/Portfolio-Delilah/static/media/ME.094a4bd9df58b6d0e0f3.jpg",
+    "index.html": "/Portfolio-Delilah/index.html",
+    "main.4c9c2d17.css.map": "/Portfolio-Delilah/static/css/main.4c9c2d17.css.map",
+    "main.746c5364.js.map": "/Portfolio-Delilah/static/js/main.746c5364.js.map",
+    "787.78fa1f3e.chunk.js.map": "/Portfolio-Delilah/static/js/787.78fa1f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9c2d17.css",
+    "static/js/main.746c5364.js"
+  ]
+}
