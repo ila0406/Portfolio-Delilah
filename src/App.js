@@ -6,12 +6,14 @@ import AboutMe from "./components/AboutMe/AboutMe"
 import Work from "./components/Work/Work"
 import Contact from "./components/Contact/Contact"
 import Footer from "./components/Footer/Footer"
+import Test from "./pages/Test"
 
 function App() {
 
     
   return (
     <div className="App">
+         {/* <Test /> */}
         <header>
         <h1>Delilah Haas</h1>
         <Navbar />
@@ -26,6 +28,7 @@ function App() {
         <Contact />
         
         <Footer />
+       
     </div>
   );
 }
