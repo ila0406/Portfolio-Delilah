@@ -6,7 +6,7 @@ import AboutMe from "./components/AboutMe/AboutMe"
 import Work from "./components/Work/Work"
 import Contact from "./components/Contact/Contact"
 import Footer from "./components/Footer/Footer"
-import Test from "./pages/Test"
+// import Test from "./pages/Test"
 
 function App() {
 

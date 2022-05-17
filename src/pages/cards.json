@@ -1,29 +1,44 @@
 [
     {
+        "projectImage": "https://github.com/ila0406/Weather-Dashboard/raw/main/assets/images/06-server-side-apis-homework-demo.png",
+        "altTitle": "Mockup for Weather dashboard",
+        "deployed": "https://ila0406.github.io/Weather-Dashboard/",
         "title": "Weather dashboard",
         "description": "Find out today's weather and the forecast for the next five days",
-        "altTitle": "Mockup for Weather dashboard",
-        "projectImage": "https://github.com/ila0406/Weather-Dashboard/raw/main/assets/images/06-server-side-apis-homework-demo.png",
-        "github": "https://github.com/ila0406/Weather-Dashboard",
-        "deployed": "https://ila0406.github.io/Weather-Dashboard/",
-        "projectTitle": "Code Repo"
+        "github": "https://github.com/ila0406/Weather-Dashboard"
     },
     {
-        "title": "Weather dashboard",
-        "description": "Find out today's weather and the forecast for the next five days",
-        "altTitle": "Mockup for Weather dashboard",
-        "projectImage": "https://github.com/ila0406/Weather-Dashboard/raw/main/assets/images/06-server-side-apis-homework-demo.png",
-        "github": "https://github.com/ila0406/Weather-Dashboard",
-        "deployed": "https://ila0406.github.io/Weather-Dashboard/",
-        "projectTitle": "Code Repo"
+        "projectImage": "./Workday-Scheduler.png",
+        "altTitle": "Mockup for Workday Scheduler",
+        "deployed": "https://ila0406.github.io/Work-Day-Scheduler/",
+        "title": "Work Day Scheduler",
+        "description": "Keep track of your important events at work",
+        "github": "https://github.com/ila0406/Work-Day-Scheduler"
     },
     {
-        "title": "Weather dashboard",
-        "description": "Find out today's weather and the forecast for the next five days",
-        "altTitle": "Mockup for Weather dashboard",
-        "projectImage": "https://github.com/ila0406/Weather-Dashboard/raw/main/assets/images/06-server-side-apis-homework-demo.png",
-        "github": "https://github.com/ila0406/Weather-Dashboard",
-        "deployed": "https://ila0406.github.io/Weather-Dashboard/",
-        "projectTitle": "Code Repo"
+        "projectImage": "./travel-trustees.png",
+        "altTitle": "Mockup for Travel Trustees",
+        "deployed": "https://ila0406.github.io/Travel-Trustees/",
+        "title": "Travel Trustees",
+        "description": "With safety information and travel information all in one place, you can plan trips quickly and safely.",
+        "github": "https://github.com/ila0406/Travel-Trustees"
+    },
+    {
+        "projectImage": "./tttp2.png",
+        "altTitle": "Mockup for Travel Trustees 2",
+        "deployed": "https://immense-ravine-97579.herokuapp.com/",
+        "title": "Travel Trustees",
+        "description": "With safety information and travel information all in one place, you can plan trips quickly and safely.",
+        "github": "https://github.com/ila0406/Travel-Trustees2"
     }
+    // ,
+    // {
+    //     "projectImage": "",
+    //     "altTitle": "",
+    //     "deployed": "",
+    //     "title": "",
+    //     "description": "",
+    //     "github": ""
+    // }
 ]
+

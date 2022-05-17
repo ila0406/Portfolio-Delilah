@@ -22,13 +22,13 @@ function Work() {
                         <a href="https://github.com/ila0406/Work-Day-Scheduler" title="Code Repo"><h4>Code Repo</h4></a>
                     </div>
                     <div class="projects">
-                        <img class="project-img" src={ImgProject2}  alt="Mockup for Travel Trustees2"/>
+                        <img class="project-img" src={ImgProject2}  alt="Mockup for Travel Trustees"/>
                         <a href="https://ila0406.github.io/Travel-Trustees/" title="Project 1 - Travel Trustees"><h3>Travel Trustees</h3></a>
                         <p>With safety information and travel information all in one place, you can plan trips quickly and safely.</p>
                         <a href="https://github.com/ila0406/Travel-Trustees" title="Code Repo"><h4>Code Repo</h4></a>
                     </div>
                     <div class="projects">
-                        <img class="project-img" src={ImgProject1}  alt="Mockup for Travel Trustees"/>
+                        <img class="project-img" src={ImgProject1}  alt="Mockup for Travel Trustees 2"/>
                         <a href="https://immense-ravine-97579.herokuapp.com/" title="Project 2 - Travel Trustees v2"><h3>Travel Trustees</h3></a>
                         <p>With safety information and travel information all in one place, you can plan trips quickly and safely.</p>
                         <a href="https://github.com/ila0406/Travel-Trustees-2" title="Code Repo"><h4>Code Repo</h4></a>

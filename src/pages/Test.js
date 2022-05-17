@@ -12,13 +12,13 @@ const[testState, setTest] = useState(cards)
     {testState.map(element => {
         
         <Card 
-            title={element.title}
-            description={element.description} 
-            projectImage={element.projectImage} 
+            projectImage={element.projectImage}
             altTitle={element.altTitle}
             deployed={element.deployed}
+            title={element.title}
+            description={element.description}
             github={element.github}
-            projectTitle={element.projectTitle}
+            // projectTitle={element.projectTitle}
             />
     })}
 </div>
